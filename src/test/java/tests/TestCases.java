@@ -10,7 +10,7 @@ import pages.CartPage;
 
 public class TestCases extends BaseTest {
 	
-	String NewEmail="user.tester105@test.com";
+	String NewEmail="user.tester106@test.com";// Change this each execution for the last test to pass.
 	String ExistingEmail="user.tester101@test.com";
 	String Pass="Tester101";
 

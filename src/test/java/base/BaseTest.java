@@ -31,6 +31,7 @@ public class BaseTest {
 
         driver.manage().window().maximize();
         driver.get("http://172.19.144.1:8080/medicare2/");
+        //driver.get("http://host.docker.internal:8080/medicare2/");
         driver.manage().deleteAllCookies();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(2));
 	}
