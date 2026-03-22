@@ -1,6 +1,6 @@
-base\BaseTest.class
-pages\LoginPage.class
-tests\TestCases.class
-pages\CartPage.class
-pages\HomePage.class
-pages\SignupPage.class
+pages/CartPage.class
+pages/LoginPage.class
+base/BaseTest.class
+pages/HomePage.class
+pages/SignupPage.class
+tests/TestCases.class
